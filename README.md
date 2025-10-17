@@ -14,52 +14,19 @@ Each section includes **evidence of learning** and a **reflection using the STAR
 
 ---
 
-## 📂 Portfolio Structure & Navigation
-
-| Section | Description | Links |
-|--------|------------|-------|
-| 💬 Business Communication | Demonstrating professional written and verbal communication. | [View Evidence](./Business-Communication/Evidence.md) • [STAR Reflection](./Business-Communication/Reflection-STAR.md) |
-| 🎤 Interview Skills | Showcasing preparation techniques and responses for interviews. | [View Evidence](./Interview-Skills/Evidence.md) • [STAR Reflection](./Interview-Skills/Reflection-STAR.md) |
-| 🎥 Mock Interview | Practical application through a recorded or simulated interview. | [View Evidence](./Mock-Interview/Evidence.md) • [STAR Reflection](./Mock-Interview/Reflection-STAR.md) |
-| 🌐 Professional Networking | Building and presenting a professional digital presence. | [View Evidence](./Professional-Networking/Evidence.md) • [STAR Reflection](./Professional-Networking/Reflection-STAR.md) |
-| 🤝 Workplace Etiquette | Understanding professional behaviour and company culture. | [View Evidence](./Workplace-Etiquette/Evidence.md) • [STAR Reflection](./Workplace-Etiquette/Reflection-STAR.md) |
-
----
-
-## 📎 Notes for Reviewers
-
-- All artefacts such as **PDFs, screenshots, links or videos** are included within each section’s folder.
-- Reflections are written in **STAR format (Situation – Task – Action – Result)** to clearly demonstrate learning outcomes.
-- This portfolio is hosted on **GitHub** to reflect digital literacy and professional presentation.
-
----
-
-## ✅ Submission Status
-
-- ✅ Portfolio Created
-- ✅ GitHub Repository Structured
-- ✅ Evidence Uploaded / Linked
-- ✅ STAR Reflections Completed
-
----
-
 > _“Growth happens when learning is reflected, not just completed.”_  
 Thank you for reviewing my portfolio 🙌
 # 💬 Business Communication – Evidence
 
 ## 📌 Overview
-This section showcases my ability to communicate professionally in both written and verbal formats. Through the Work Readiness Programme, I learned how to structure business emails, maintain professionalism in tone, and communicate confidently in a workplace setting.
+This section showcases my ability to communicate professionally in both written and verbal formats. Through the Work Readiness Programme, I learned how to structure business emails, maintain professionalism in tone, and communicate confidently in a workplace setting.During my hybrid internship at Masebo Networks, I was responsible for managing internal and external communication through digital platforms such as Microsoft Teams and email. My role included writing professional emails, compiling weekly progress reports, and assisting where I can. Through these responsibilities, I improved my ability to convey technical information clearly and maintain professionalism across different communication mediums.
 
 ---
 
 ## 🧾 Uploaded Evidence
+<img width="1891" height="963" alt="business-communication jpg" src="https://github.com/user-attachments/assets/e0180bc8-2316-41c3-bcf7-cde1b9b9047a" />
 
-| Artefact | Description | Link/Location |
-|---------|------------|--------------|
-| 📎 `business-email-sample.pdf` *(or screenshot/image)* | A professional email I drafted as part of the communication module. | `./Business-Communication/business-email-sample.pdf` |
-| 🎧 Optional Voice/Video Clip *(if available)* | A short recorded workplace communication simulation (optional but recommended). | Paste link here if uploaded online |
 
-> 💡 *Upload your PDF or screenshot into this folder and rename accordingly. Then update the table above with your actual filename.*
 
 ---
 
@@ -70,29 +37,21 @@ This section showcases my ability to communicate professionally in both written 
 - ✅ Structuring messages for clarity and intention  
 - ✅ Ability to communicate confidently and professionally in a workplace context
 
----
-
-## 📥 How to View
-Simply click on the file in this folder or open it directly from the table above once uploaded.
 
 ---
 # 💬 Business Communication – STAR Reflection
 
 ### ⭐ **Situation**
-During the Work Readiness Programme, we were required to draft a formal business email responding to a workplace scenario involving a client query.
+When I first joined Masebo Networks I was given a task to create a survey for companies that might be interested in doing WIL internships.
 
 ### 🎯 **Task**
-My task was to write a clear, professional, and well-structured email that addressed the client’s concern while maintaining a respectful tone.
+My task was to find out if there are companies interested on WIL and finding out their struggles with not implementing or even feedback from the ones that already did. It was also my responsibility to make sure that my daily reports reflected accurate project updates so that my supervisor and the rest of the team could make informed decisions.
 
 ### 🛠️ **Action**
-I applied the principles taught in the session by:
-- Using a **professional greeting and subject line**
-- Keeping the **tone polite and solution-focused**
-- Structuring the message using **short, clear paragraphs**
-- Ending with a **professional closing and call-to-action**
 
+To address this, I introduced a survey internally first before putting in on LinkedIn and any available platforms. By maintaining open communication lines, I ensured that information flowed efficiently.
 ### 🎉 **Result**
-I received positive feedback for my tone and structure, and I learned how important clarity and professionalism are in business communication. This improved my confidence in writing formal emails and responding professionally in workplace scenarios.
+I received positive feedback for my tone and structure, and I learned how important clarity and professionalism are in business communication. This improved my confidence in writing formal emails and responding professionally in workplace scenarios.The implementation of these strategies significantly reduced miscommunication and improved overall productivity. My supervisor commended my initiative and attention to detail in streamlining project updates. Through this experience, I learned that effective business communication is about being proactive, organized, and clear — qualities that I will continue to apply in future professional settings.
 
 ---
 
@@ -100,18 +59,13 @@ I received positive feedback for my tone and structure, and I learned how import
 # 🎤 Interview Skills – Evidence
 
 ## 📌 Overview
-This section contains evidence of my preparation and understanding of interview techniques, including answering common interview questions and presenting myself professionally.
-
----
+This section contains evidence of my preparation and understanding of interview techniques, including answering common interview questions and presenting myself professionally.Before being accepted as an intern at Masebo Networks, I participated in an online interview via Microsoft Teams. The interview focused on my technical skills, problem-solving abilities, and adaptability to hybrid work environments. I practiced answering behavioral questions using the STAR method and prepared by researching the company's values and recent projects.
 
 ## 🧾 Uploaded Evidence
+<img width="1904" height="978" alt="interview-skills jpg" src="https://github.com/user-attachments/assets/92bbbc40-aa7e-4e3e-bc6c-93de8ad13264" />
 
-| Artefact | Description | Link/Location |
-|---------|------------|--------------|
-| 📎 `interview-preparation-notes.pdf` *(or screenshot/image)* | Notes or slides covering interview preparation tips and common questions. | `./Interview-Skills/interview-preparation-notes.pdf` |
-| 🎙️ Optional Recording *(if available)* | A short clip of me practising interview responses (optional but recommended). | Add link here if using online video platform |
 
-> 💡 *Upload any preparation notes or files into this folder and update the table with actual filenames.*
+
 
 ---
 
@@ -123,28 +77,18 @@ This section contains evidence of my preparation and understanding of interview 
 - ✅ Professional self-presentation for interviews
 
 ---
-
-## 📥 How to View
-Once files are uploaded to this folder, click on them directly or access them via the table above.
-
----
 # 🎤 Interview Skills – STAR Reflection
 
 ### ⭐ **Situation**
-During the training, we were introduced to common interview questions and asked to prepare structured responses using the STAR technique.
-
+The online interview took place urgently, and I was eager to gain real-world experience. This was my first professional interview conducted entirely online, which made me slightly nervous about how I would come across to the panel. The challenge was balancing professionalism with authenticity in a virtual setting where body language and tone carried extra weight.
 ### 🎯 **Task**
-My task was to practise responding to the question: "Tell me about a time you worked under pressure," using a clear and confident format.
+My task was to present myself as confident, prepared, and capable of handling both technical and interpersonal aspects of the internship. I needed to demonstrate not only my academic knowledge but also my communication skills and ability to work effectively in a hybrid team environment.
 
 ### 🛠️ **Action**
-To prepare, I:
-- Identified a real experience from a previous academic or teamwork situation
-- Broke my answer into **Situation, Task, Action, and Result**
-- Practised speaking clearly and confidently, paying attention to tone and pace
-- Used positive language to highlight my problem-solving ability
+To prepare, I conducted a thorough study of Masebo Networks' operations and projects. I practiced answering typical interview questions using the STAR technique to provide structured and relevant responses. I tested my internet connection, lighting, and background setup before the interview to ensure a professional virtual appearance. During the interview, I maintained eye contact with the camera, spoke clearly, and provided real examples of how I solved challenges in my coursework.
 
 ### 🎉 **Result**
-I was able to deliver a confident and structured interview response, which helped me understand how important preparation and structure are in interviews. I now feel more prepared to handle real interview scenarios with clarity.
+My preparation paid off — I performed confidently, answered questions effectively, and impressed the interviewers with my composure and readiness. A few days later, I received the internship offer. This experience taught me the value of preparation, calmness under pressure, and the importance of communicating both competence and enthusiasm in an interview setting.
 
 ---
 
@@ -152,18 +96,14 @@ I was able to deliver a confident and structured interview response, which helpe
 # 🎥 Mock Interview – Evidence
 
 ## 📌 Overview
-This section includes evidence of my participation in a **mock interview simulation**, where I had the opportunity to apply my interview skills in a practical setting.
+This section includes evidence of my participation in a **mock interview simulation**, where I had the opportunity to apply my interview skills in a practical setting.As part of my university's work readiness program, I participated in an online mock interview designed to simulate a real-world job interview. The session helped me understand how to apply the STAR method in practice and how to handle interview nerves. The feedback from the interviewer helped me refine my responses and body language.
 
 ---
 
 ## 🎬 Uploaded Evidence
+<img width="1906" height="693" alt="mock-interview jpg" src="https://github.com/user-attachments/assets/dc65b4b9-d55c-48ab-9e88-4efd5311a0dc" />
 
-| Artefact | Description | Link/Location |
-|---------|------------|--------------|
-| 🎥 `mock-interview-video.mp4` or video link | A recording or simulation of my mock interview session. | Upload file or paste link here |
-| 📝 `mock-interview-feedback.pdf` *(optional)* | Feedback or self-evaluation document reflecting on performance. | `./Mock-Interview/mock-interview-feedback.pdf` |
 
-> 💡 *If your mock interview was done in class or verbally, you may add a short written summary or reflection instead of a video.*
 
 ---
 
@@ -175,47 +115,34 @@ This section includes evidence of my participation in a **mock interview simulat
 - ✅ Ability to handle interview pressure and think on the spot
 
 ---
-
-## 📥 How to View
-Once files are uploaded to this folder, access them directly or use the links above.
-
----
 # 🎥 Mock Interview – STAR Reflection
 
 ### ⭐ **Situation**
-As part of the work readiness programme, I participated in a mock interview to simulate a real job interview experience.
+During this final year, our faculty organized an online mock interview session for students to prepare us for professional interviews. I viewed it as an opportunity to assess my readiness for real job interviews and to identify areas that required improvement. I was aware that my responses often tended to be too long or lacked focus.
 
 ### 🎯 **Task**
-My objective was to answer interview questions professionally while demonstrating confidence, clarity, and structure using the STAR method.
+My task was to participate in the mock interview as if it were a real one and to demonstrate my ability to respond confidently and concisely to questions about teamwork, leadership, and communication. I also wanted to learn how to better structure my answers using the STAR framework to ensure that they were organized and impactful.
 
 ### 🛠️ **Action**
-To prepare and perform well, I:
-- Reviewed common interview questions and practised responses in advance
-- Paid attention to my **body language, tone, and speaking pace**
-- Applied **STAR structure** to keep my answers focused and relevant
-- Listened carefully to the interviewer before responding
+I prepared by reviewing common behavioral interview questions and writing down examples from my academic projects that demonstrated my skills. During the session, I maintained professionalism and used clear examples to explain my experiences. I also paid attention to my posture and tone to convey confidence. After the interview, I carefully reviewed the feedback provided and made notes on areas that I needed to work on, particularly shortening my answers.
+
 
 ### 🎉 **Result**
-The mock interview helped me identify areas for improvement such as reducing filler words and improving confidence in my delivery. I gained valuable interview practice and feel more prepared for real job interviews.
-
+The mock interview was an eye-opening experience that built my confidence and improved my communication clarity. I learned how to stay focused under pressure and structure my answers logically. This preparation directly contributed to my success in my actual Masebo Networks interview, where I was able to perform with greater assurance and control.
 ---
 
 > 🧠 **Personal Insight:** The mock interview made me realise that confidence grows with practice. Speaking out loud and simulating real scenarios helped me overcome nervousness.
 # 🌐 Professional Networking – Evidence
 
 ## 📌 Overview
-This section highlights the importance of **building a professional digital presence** and connecting with industry networks through platforms such as LinkedIn or professional events.
+This section highlights the importance of **building a professional digital presence** and connecting with industry networks through platforms such as LinkedIn or professional events.While interning at Masebo Networks, I made it a priority to connect with professionals from different departments to expand my industry knowledge. I also created and updated my LinkedIn profile to reflect my internship activities and connected with mentors, supervisors, and fellow interns to build my professional presence online.
 
 ---
 
 ## 🧾 Uploaded Evidence
+<img width="1905" height="963" alt="networking jpg" src="https://github.com/user-attachments/assets/df5b2b4f-aa04-46bb-a5cb-b70e0e06af8f" />
 
-| Artefact | Description | Link/Location |
-|---------|------------|--------------|
-| 🔗 `LinkedIn-profile-screenshot.png` or profile link | Screenshot or link to my LinkedIn or professional online profile. | Add link or upload screenshot here |
-| 📎 `networking-activity-proof.pdf` *(optional)* | Evidence of connecting with professionals, attending a networking session, or sharing professional posts. | `./Professional-Networking/networking-activity-proof.pdf` |
 
-> 💡 *If you don’t have a LinkedIn yet, create one and upload a screenshot of your profile banner + headline.*
 
 ---
 
@@ -227,29 +154,58 @@ This section highlights the importance of **building a professional digital pres
 - ✅ Awareness of personal branding and presentation
 
 ---
-
-## 📥 How to View
-Click on uploaded profile screenshots or access your LinkedIn link from the table above.
-
----
 # 🌐 Professional Networking – STAR Reflection
 
 ### ⭐ **Situation**
-As part of the programme, we were encouraged to create or update our LinkedIn profiles and connect with professionals or peers in our field.
+At the beginning of my internship, I realized that professional networking would be essential for learning from experienced colleagues and staying informed about opportunities in the ICT field. Since I was working in a hybrid setup, I didn't always have face-to-face interactions, which made networking more challenging.
 
 ### 🎯 **Task**
-My task was to build a professional online presence that reflects my career interests and ICT skills, and to engage in at least one networking action such as connecting or posting.
+My goal was to build strong professional relationships both within Masebo Networks and in the broader ICT community. I aimed to connect with people who could provide guidance, share experiences, and help me grow as a professional.
 
 ### 🛠️ **Action**
-To complete this task, I:
-- Created/updated my LinkedIn profile with a **professional photo, headline, and summary**
-- Added my **skills, education, and ICT-related interests**
-- Connected with classmates and explored ICT-related communities
-- Observed how professionals present themselves and learned how to position myself online
+I began by engaging actively during team meetings, asking insightful questions, and offering assistance on tasks where I could contribute. I will also send personalized LinkedIn connection requests to colleagues, thanking them for their guidance and staying in touch about industry trends.
 
 ### 🎉 **Result**
-My profile now represents a professional personal brand, and I took the first step in building an industry network. This boosted my confidence and helped me understand that networking is a long-term investment in career growth.
+By the end of my internship, I will have built meaningful professional relationships and gained several mentors who continued to guide me even after the program ended. My LinkedIn network will grow, and I will feel more confident engaging in professional conversations. This experience will help me understand that networking is not about seeking favors but about building lasting, mutual connections that support personal and career growth.
 
 ---
 
 > 🧠 **Personal Insight:** I realised that networking is not just about asking for opportunities — it’s about building visibility and relationships in the industry.
+
+# 🌐 Workplace Etiquette – Evidence
+
+## 📌 Overview
+This section highlights the importance of **building a professional digital presence** and connecting with industry networks through platforms such as LinkedIn or professional events.While interning at Masebo Networks, I made it a priority to connect with professionals from different departments to expand my industry knowledge. I also created and updated my LinkedIn profile to reflect my internship activities and connected with mentors, supervisors, and fellow interns to build my professional presence online.During my hybrid internship, maintaining professionalism was a key part of my daily routine. Whether working from home or at the office, I made sure to be punctual, respectful, and accountable for my work. I also ensured that I followed company protocols, met deadlines, and maintained effective communication with my supervisor and team members.
+
+---
+
+## 🧾 Uploaded Evidence
+<img width="1908" height="971" alt="workplace-etiquette jpg" src="https://github.com/user-attachments/assets/14b8f7a8-16b6-41c6-aae4-49d1277351c9" />
+
+
+---
+
+## 🎯 Skills Demonstrated
+
+- ✅ Respect and reliability
+- ✅ Understanding the value of time management
+- ✅ Ability to connect and engage with professional communities
+- ✅ Awareness of dressing appropriately and presentation
+  
+---
+# 🌐 Workplace Etiquette – STAR Reflection
+
+### ⭐ **Situation**
+When I started my internship at Masebo Networks, adapting to a hybrid work environment was new to me. Some days required in-person collaboration, while others involved working remotely with minimal supervision. I quickly noticed that balancing flexibility with discipline was essential to maintain productivity.
+
+### 🎯 **Task**
+My main task was to uphold professional behavior, regardless of whether I was working online or in the office. This included being punctual for meetings, responding promptly to messages, completing my assigned tasks, and demonstrating accountability in everything I did.
+
+### 🛠️ **Action**
+To achieve this, I established a personal routine that allowed me to manage my time effectively. I created a daily task tracker to monitor progress and set reminders for meetings and deadlines. When working remotely, I maintained a distraction-free workspace and communicated regularly with my supervisor to provide updates. I also made sure to present myself professionally during online meetings by dressing appropriately and maintaining a positive attitude.
+
+### 🎉 **Result**
+By following these practices, I consistently met deadlines and earned positive feedback from my supervisor. I became more disciplined, reliable, and self-aware. This experience taught me that workplace etiquette is not just about following rules — it's about demonstrating respect, commitment, and integrity in every aspect of one's work.
+
+CONCLUSION
+Creating this digital portfolio helped me reflect deeply on my journey as a hybrid intern at Masebo Networks. Through experiences in communication, interviews, networking, and professionalism, I gained valuable insights into what it means to be work-ready in the ICT industry. Each situation challenged me to grow, each task demanded responsibility, each action required intention, and each result shaped me into a more confident and capable professional.
